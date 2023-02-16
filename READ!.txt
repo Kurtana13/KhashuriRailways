@@ -1,0 +1,5 @@
+1)Open MS SQL
+2)Right click on Databases
+3)Restore Database
+4)Source - select Device
+5)add and find location of this file
